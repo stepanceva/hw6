@@ -20,6 +20,7 @@ _biscuit - BrE, cookie - AmE_
 ![](https://github.com/stepanceva/hw6/blob/master/Снимок%20экрана%202018-04-08%20в%203.48.04.png?raw=true)
 ### 2.
 _squash/squeeze - сжимать, сдавливать_
+
 ![](https://github.com/stepanceva/hw6/blob/master/Снимок%20экрана%202018-04-08%20в%204.05.31.png?raw=true)
 ![](https://github.com/stepanceva/hw6/blob/master/Снимок%20экрана%202018-04-08%20в%204.06.44.png?raw=true)
 * Только с _squash_ употребляется _insect_.
