@@ -23,6 +23,6 @@ _squash/squeeze - сжимать, сдавливать_
 
 ![](https://github.com/stepanceva/hw6/blob/master/Снимок%20экрана%202018-04-08%20в%204.05.31.png?raw=true)
 ![](https://github.com/stepanceva/hw6/blob/master/Снимок%20экрана%202018-04-08%20в%204.06.44.png?raw=true)
-* Только с _squash_ употребляется _insect_.
-* Только с _squeeze_ употребляется _juice_.
+* Только с глаголом _squash_ употребляется _insect_.
+* Только с глаголом _squeeze_ употребляется _juice_.
 * И с тем, и с другим словом употребляется _ball_.
